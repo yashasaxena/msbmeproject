@@ -1,5 +1,5 @@
 // Initialize variables
-// pins
+// Set up pins
 int motorA_drive = 12;
 int motorA_brake = 9; 
 int motorA_speed = 3; 
